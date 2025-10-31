@@ -1,0 +1,12 @@
+langchain-ollama
+langchain-community
+langchain-core
+faiss-cpu
+numpy
+pydantic
+Pillow
+PySide6
+watchdog
+win11toast
+matplotlib
+tqdm
