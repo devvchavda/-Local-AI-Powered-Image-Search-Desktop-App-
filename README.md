@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/devvchavda/-Local-AI-Powered-Image-Search-Desktop-App.git](https://github.com/devvchavda/-Local-AI-Powered-Image-Search-Desktop-App.git)
-    cd Local-AI-Powered-Image-Search-Desktop-App
+    cd -Local-AI-Powered-Image-Search-Desktop-App
     ```
 
 2.  **Create and activate a virtual environment:**
