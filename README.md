@@ -5,7 +5,8 @@
 > The system is built to be flexible ⚙️; while it's designed for local-first use, a developer can adapt it to use other models via API calls ☁️. You'll notice this project does not use a traditional CLIP model. This was a deliberate choice ✅ due to the complexities of finding a good, self-hostable, or affordably-priced CLIP API 💰.
 >
 > Nevertheless, the search results 🔍 achieved with the current multi-captioning strategy are impressive ✨.
-
+As u can see here 
+> ![Demo GIF](demo.gif)
 
 ## 🚀 Setup & Installation
 
